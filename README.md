@@ -1,5 +1,5 @@
 === Xcodes Team Member === <br>
-Contributors: alexmehedy
+Contributors: alexmehedy <br>
 Tags: xcodes team member,team member,hosttier,alexmehedy <br>
 Donate link: https://www.buymeacoffee.com/alexmehedy <br>
 Requires at least: 5.2 <br>
@@ -48,3 +48,6 @@ yes<br>
 1. Screenshot1.png <br>
 2. Screenshot2.png <br>
 3. Screenshot3.png<br>
+
+
+<b> AUthor : <a href="https://fb.com/alex.mehedy">Alex Mehedy</a> </b>
